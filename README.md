@@ -14,7 +14,9 @@ This is a simple, interactive game where two players can compete against each ot
 ---
 
 ## Live Demo
-🎮 [Play Tic-Tac-Toe Now](https://your-live-demo-link.com)
+
+🎮 [Play Tic-Tac-Toe Now](https://abhishekahirwar01.github.io/tic-tac-toe)
+
 
 ---
 
